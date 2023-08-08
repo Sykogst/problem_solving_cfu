@@ -4,7 +4,7 @@
 # Capitalize every word in a string
 
 # Define a variable containing string with multiple words, differing cases throughout
-intro = 'HELLO mY name Is SAm'
+intro = 'HELLO  mY    name Is SAm'
 # Define a method, accepts one string param
 def all_capitals(sentence)
     # Define a variable with empty string to hold the final string with capitalized words
